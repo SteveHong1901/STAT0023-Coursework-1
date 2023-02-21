@@ -10,4 +10,4 @@ Multidimensional Scaling Program
 The multidimensional_scaling.r file contains a Python implementation of multidimensional scaling, which is a technique used to reduce the dimensionality of a dataset. The program takes in a dataset as input, and uses multidimensional scaling to produce a lower-dimensional representation of the data that preserves the pairwise distances between data points. The program has been tested with a variety of datasets and is designed to be easy to use and modify.
 
 Usage
-To use these programs, simply download the repository and run the desired program in a Python environment. The programs can be modified to suit your needs by changing the input parameters or modifying the code directly.
+To use these programs, simply download the repository and run the desired program in a R environment. The programs can be modified to suit your needs by changing the input parameters or modifying the code directly.
